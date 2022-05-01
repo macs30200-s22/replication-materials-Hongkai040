@@ -1,2 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
+Explore larger dataset.ipynb
+Getting labels.ipynb
+/bert-model-balanced/
+/bert-model-unbanlanced/
+/douban_comments_for_pred/
