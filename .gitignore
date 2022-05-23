@@ -6,3 +6,7 @@ Getting labels.ipynb
 /bert-model-unbanlanced/
 /douban_comments_for_pred/
 /results/
+all_comments_with_pred.csv
+douban_sampled_labled/
+other_notebooks/
+time_point/
