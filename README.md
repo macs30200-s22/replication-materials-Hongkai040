@@ -44,3 +44,17 @@ Then you can download all the dataset and change all the directories specified i
 
 
 
+### How to cite:
+
+```
+@software{Hongkai040,
+  author       = {Hongkai Mao},
+  title        = {macs30200-s22/replication-materials-Hongkai040},
+  month        = Jun,
+  year         = 2022,
+  publisher    = {Github},
+  journal      = {Github repository},
+  howpublished = {\url{https://github.com/macs30200-s22/replication-materials-Hongkai040}},
+  commit       = {}
+}
+```
